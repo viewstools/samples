@@ -1,0 +1,26 @@
+UsePassCode Vertical
+Title
+text Captures/PassCode.view
+
+Vertical
+marginTop 10
+PassCode
+length 3
+onChange <
+onSubmit <
+
+Horizontal
+onWhen <code
+marginTop 10
+Text
+text 👎
+when <isReady
+text 👍
+
+Text
+fontFamily Roboto
+fontWeight 300
+fontSize 18
+text Your passcode is 🔮Code
+Code Text
+text <code

@@ -1,0 +1,26 @@
+PassCodeCapture CaptureNumber
+borderBottomLeftRadius 8
+borderBottomRightRadius 8
+borderColor #e6e6e6
+borderStyle solid
+borderTopLeftRadius 8
+borderTopRightRadius 8
+borderWidth 2
+color #4A4A4A
+fontFamily Roboto
+fontSize 18
+fontWeight 400
+height 80
+marginLeft 0
+onBlur <
+onChange <
+onFocus <
+onKeyDown <
+ref <innerRef
+textAlign center
+value <
+width 50
+when <isFocus
+borderColor #0374BF linear duration 50
+when <!isFirst
+marginLeft 10
